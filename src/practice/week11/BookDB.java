@@ -53,7 +53,12 @@ public class BookDB {
     static void saveBook() {
         // 책 제목을 입력받음
         System.out.print("제목을 입력하세요\n: ");
-        String title = sc.next();
+
+        // 이전 입력에서 남은 개행 문자 제거
+        sc.nextLine();
+
+        // 책 제목 입력받음
+        String title = sc.nextLine();
 
         // 평점을 입력받음
         int score;
@@ -111,7 +116,7 @@ public class BookDB {
         // 모든 책을 출력함을 알림
         System.out.println("Info: 저장된 모든 책을 출력합니다.");
 
-        // for-each 문를 사용하여 모든 책 정보를 출력
+        // for-each 문을 사용하여 모든 책 정보를 출력
         for (Book book: bookList) System.out.println(book);
     }
 }
