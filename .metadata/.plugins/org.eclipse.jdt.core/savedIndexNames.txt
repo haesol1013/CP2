@@ -1,0 +1,1 @@
+INDEX VERSION 1.134+D:\UNIV\04_Programming\CNU\CP2\.metadata\.plugins\org.eclipse.jdt.core
