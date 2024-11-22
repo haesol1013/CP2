@@ -90,7 +90,7 @@ public class BookDB {
         // 책 검색
         while (true) {
             // 책의 index를 입력받음
-            System.out.printf("찾고 싶은 책의 index를 입력하세요(1~%d)\n: ", bookList.size());;
+            System.out.printf("찾고 싶은 책의 index를 입력하세요(1~%d)\n: ", bookList.size());
             int bookNum = sc.nextInt();
 
             // index를 벗어난다면 Error 출력후, 다시 입력받음
