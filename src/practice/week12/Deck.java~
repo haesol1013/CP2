@@ -51,7 +51,7 @@ public class Deck {
         // 덱을 생성하고 조커를 추가한 후 모든 카드 출력
         Deck deck = new Deck();
 
-        // Card Type으로 추가되므로 업케스팅이 이루어짐
+        // practice.week12.Card Type으로 추가되므로 업케스팅이 이루어짐
         deck.addCard(new SpecialCard("조커"));
         deck.showDeck();
     }
