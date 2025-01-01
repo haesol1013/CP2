@@ -1,4 +1,4 @@
-package practice.week8;
+package practice.week08;
 
 public class Main {
     public static void main(String[] args) {

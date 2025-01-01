@@ -1,4 +1,4 @@
-package practice.week4;
+package practice.week04;
 
 public class Prime {
     public static void main(String[] args) {

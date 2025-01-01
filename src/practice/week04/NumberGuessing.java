@@ -1,4 +1,4 @@
-package practice.week4;
+package practice.week04;
 
 public class NumberGuessing {
     public static void main(String[] args) {

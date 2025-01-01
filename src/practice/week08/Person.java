@@ -1,4 +1,4 @@
-package practice.week8;
+package practice.week08;
 
 public class Person {
     // Person 클래스의 필드 설정

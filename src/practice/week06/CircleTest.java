@@ -1,4 +1,4 @@
-package practice.week6;
+package practice.week06;
 
 public class CircleTest{
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package practice.week2;
+package practice.week02;
 import java.util.Scanner;
 
 public class TempTranslator1 {
